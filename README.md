@@ -9,3 +9,5 @@ It's divided into modules, each one having its own README:
 * [Quickstart for running both Todolist with Log4Shell in Kubernetes](README-K8S.md)
 
 Modificado por Magno Logan 2023
+
+Commitando direto na main!
